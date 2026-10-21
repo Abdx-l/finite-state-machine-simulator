@@ -1,0 +1,5 @@
+fsm
+fsm.exe
+*.o
+__pycache__/
+
